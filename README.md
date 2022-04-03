@@ -32,3 +32,5 @@ Discord : TGRush#0506
 Telegram : [HowToRush](https://telegram.dog/HowToRush)
 
 YouTube : [Rush](https://www.youtube.com/channel/UCmKXvVNkrvcyzHED3UzC6bQ) (Boring and dead channel lol)
+
+:trollface:
