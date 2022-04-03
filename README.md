@@ -1,6 +1,6 @@
 # Hi! My name is Rush 👋
 
-I am 16 years old, live in Germany, and I'm an apsiring Web Developer - _as in, I'm still learning the basics_
+I am 16 years old, live in Germany, and I'm an apsiring Web Developer ← _as in, I'm still learning the basics_
 
 ## What I'm _currently_ learning
 - Javascript
@@ -23,13 +23,13 @@ I am 16 years old, live in Germany, and I'm an apsiring Web Developer - _as in, 
 - Olives <!-- lol -->
 - Stress overall
 
-## You can find me on the following platforms:
+## You can also find me on the following platforms:
 
-Revolt [[:grey_question:]](https://revolt.chat) : `@TGRush` or https://app.revolt.chat/invite/x6dJEyyD
+Revolt [[:grey_question:]](https://revolt.chat) : `@TGRush` or https://app.revolt.chat/invite/x6dJEyyD (mostly active)
 
-Discord : TGRush#0506
+Discord : TGRush#0506 (mostly inactive)
 
-Telegram : [HowToRush](https://telegram.dog/HowToRush)
+Telegram : [HowToRush](https://telegram.dog/HowToRush) (Most active)
 
 YouTube : [Rush](https://www.youtube.com/channel/UCmKXvVNkrvcyzHED3UzC6bQ) (Boring and dead channel lol)
 
