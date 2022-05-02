@@ -1,8 +1,9 @@
-# Hi! My name is Rush 👋
+<h1 style="text-align:center;">Hi! My name is Rush 👋</h1>
 
-I am 16 years old, live in Germany, and I'm an apsiring Web Developer ← _as in, I'm still learning the basics_
+I am 16 years old, live in Germany, and I'm an apsiring Web Developer ← *as in, I'm still learning the basics*
 
 ## What I'm _currently_ learning
+
 - Javascript
 - HTML
 - CSS
