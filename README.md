@@ -4,12 +4,13 @@ I am 16 years old, live in Germany, and I'm an apsiring Web Developer ← *as in
 
 ## What I'm _currently_ learning
 
-- Javascript
+- ~~Javascript~~ - Screw JavaScript
 - HTML
 - CSS
+- Lua - lua my beloved
 
 ## What I already know:
-- uh, bash? idk
+- Bash (?)
 
 ## :heavy_check_mark: I like:
 - Technology
